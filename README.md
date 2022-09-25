@@ -1,5 +1,5 @@
 
-I'm Data Anlayst using ML/DL and i'm interested in creating value through data.
+## I'm Data Anlayst using ML/DL and i'm interested in creating value through data.
 
 
 ## Skills
