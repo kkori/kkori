@@ -1,7 +1,14 @@
-### Hi there 👋
 
-Data Analyst
-안녕하세요. 데이터분석/AI를 활용하여 가치를 창출하는 일에 관심이 많습니다.
+I'm Data Anlayst using ML/DL and i'm interested in creating value through data.
+
+
+## Skills
+- Python
+- R
+- ML/DL
+- SQL
+- SAS
+- Statistics
 
 <!--
 **kkori/kkori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
